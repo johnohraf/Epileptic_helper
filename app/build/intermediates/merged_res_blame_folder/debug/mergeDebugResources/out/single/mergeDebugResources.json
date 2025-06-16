@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_sync.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/sync.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-anydpi-v26_ic_settings.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-anydpi-v26/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/menu_main.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_toolbar_custom.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/toolbar_custom.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_epi32.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/epi32.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xhdpi_ic_settings_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xhdpi/ic_settings_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-hdpi_ic_settings.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-hdpi/ic_settings.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_tip.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/tip.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_baseline_calendar_month_24.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_activity_prist.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_prist.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxxhdpi_ic_settings_foreground.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxxhdpi/ic_settings_foreground.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_my_widget.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/my_widget.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_run.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/run.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_selected_item.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/selected_item.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_banner_register.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/banner_register.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxxhdpi_ic_settings_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxxhdpi/ic_settings_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_krest.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/krest.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-mdpi_ic_settings_foreground.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-mdpi/ic_settings_foreground.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_file_paths.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_header_preferences.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/header_preferences.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxhdpi_ic_settings.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxhdpi/ic_settings.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_timer.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/timer.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_prim.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/prim.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxhdpi_ic_settings_foreground.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxhdpi/ic_settings_foreground.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_fragment_slideshow.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_epi_ic.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/epi_ic.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_messages_preferences.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/messages_preferences.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-mdpi_ic_settings_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-mdpi/ic_settings_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxhdpi_ic_settings_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxhdpi/ic_settings_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_fragment_home.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_set.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/set.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_nav_header_main.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_flag.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/flag.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_app_bar_main.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_activity_main2.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_activity_authorization.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_authorization.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_sync_preferences.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/sync_preferences.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_fragment_gallery.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_event_highlight.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/event_highlight.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_root_preferences.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-mdpi_ic_settings.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-mdpi/ic_settings.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_activity_sett.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_sett.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_light_header_background.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/light_header_background.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_messages.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/messages.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-hdpi_ic_settings_foreground.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-hdpi/ic_settings_foreground.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_dark_header_background.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/dark_header_background.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_event_background.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/event_background.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_ic_settings_background.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/ic_settings_background.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/xml_my_widget_info.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/xml/my_widget_info.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_item_event.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xhdpi_ic_settings_foreground.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xhdpi/ic_settings_foreground.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-hdpi_ic_settings_round.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-hdpi/ic_settings_round.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_dialog_event_details.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/dialog_event_details.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_activity_calendar.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xxxhdpi_ic_settings.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xxxhdpi/ic_settings.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/layout_content_main.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-anydpi-v26_ic_settings_round.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-anydpi-v26/ic_settings_round.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/mipmap-xhdpi_ic_settings.webp.flat",
+        "source": "com.example.epileptichelper.app-main-7:/mipmap-xhdpi/ic_settings.webp"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_about.png.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/about.png"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-debug-5:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.epileptichelper.app-main-7:/drawable/baseline_arrow_back_24.xml"
+    }
+]

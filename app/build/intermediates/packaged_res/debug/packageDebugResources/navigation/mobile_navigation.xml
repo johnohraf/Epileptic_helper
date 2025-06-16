@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_vhod">
+
+    <fragment
+        android:id="@+id/nav_vhod"
+        android:name="com.example.epileptichelper.ui.home.HomeFragment"
+        android:label="@string/label_main"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_calendary"
+        android:name="com.example.epileptichelper.ui.gallery.GalleryFragment"
+        android:label="@string/label_main"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_Onas"
+        android:name="com.example.epileptichelper.ui.slideshow.SlideshowFragment"
+        android:label="@string/label_main"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.epileptichelper.ui.slideshow.SlideshowFragment"
+        android:label="@string/label_main"
+        tools:layout="@layout/fragment_slideshow" />
+</navigation>

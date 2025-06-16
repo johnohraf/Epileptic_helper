@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://epileptic-helper-c7574-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">501404405751</string>
+    <string name="google_api_key" translatable="false">AIzaSyAi3lBoin9Ei7v-GRSK1DWistQeC0CQ2Cg</string>
+    <string name="google_app_id" translatable="false">1:501404405751:android:fbcec79f7fd24f6fab28f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAi3lBoin9Ei7v-GRSK1DWistQeC0CQ2Cg</string>
+    <string name="google_storage_bucket" translatable="false">epileptic-helper-c7574.appspot.com</string>
+    <string name="project_id" translatable="false">epileptic-helper-c7574</string>
+</resources>

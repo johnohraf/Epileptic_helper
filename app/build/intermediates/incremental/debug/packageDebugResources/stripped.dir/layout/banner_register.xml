@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewHeder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Добро пожаловать в Epileptic helper"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:textAlignment="textStart"
+        android:layout_marginBottom="16dp"/>
+
+
+    <TextView
+        android:id="@+id/textViewPrompt1"
+        android:layout_width="361dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewHeder"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="16dp"
+        android:text="-Для того, чтобы не потерять данные и доступа к профилю с нескольких устройсв просим вас войти в систему"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/buttonOk"
+        android:layout_width="67dp"
+        android:layout_height="36dp"
+        android:layout_below="@id/textViewPrompt1"
+        android:layout_marginTop="-6dp"
+        android:background="@color/material_on_surface_stroke"
+        android:stateListAnimator="@anim/nav_default_exit_anim"
+        android:text="Ок"
+        android:textColor="@android:color/black" />
+</RelativeLayout>

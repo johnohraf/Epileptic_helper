@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vhod"
+            android:icon="@drawable/baseline_account_circle_24"
+            android:title="@string/menu_vhod" />
+        <item
+            android:id="@+id/nav_calendary"
+            android:icon="@drawable/baseline_calendar_month_24"
+            android:title="@string/menu_calendary" />
+        <item
+            android:id="@+id/nav_Onas"
+            android:icon="@drawable/set"
+            android:title="@string/menu_settings" />
+    </group>
+</menu>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Options">
+        <item>Date and time</item>
+        <item>Duration</item>
+        <item>Activity</item>
+        <item> Cause of seizure</item>
+        <item>Type of seizure</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="activities">
+        <item>Falling asleep</item>
+        <item>Dream</item>
+        <item>Awakening</item>
+        <item>Studies</item>
+        <item>Job</item>
+        <item>Physical exercise</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="attackReasons">
+        <item>Alcohol consumption</item>
+        <item>Taking prohibited substances</item>
+        <item>Heat</item>
+        <item>Flashing light</item>
+        <item>Disease</item>
+        <item>Missed medication</item>
+        <item>Lack of sleep</item>
+        <item>Stress</item>
+        <item>Other</item>
+
+    </string-array>
+    <string-array name="attackTypes">
+        <item>Absence</item>
+        <item>Atonic</item>
+        <item>Atypical absence seizure</item>
+        <item>Clonic</item>
+        <item>Complex partial</item>
+        <item>Myoclonic</item>
+        <item>Myoclonic seizure cluster</item>
+        <item>Gelastic</item>
+        <item>Infantile spasms</item>
+        <item>Secondary generalized</item>
+        <item>Simple partial</item>
+        <item>Tonic</item>
+        <item>Tonic-clonic</item>
+        <item>Another</item>
+    </string-array>
+    <string-array name="languages_array">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="monthNames">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="dark_header_background_color">#1A237E</color>
+    <color name="holo_red_light">#DC1010</color>
+    <color name="light_header_background_color">#3F51B5</color>
+    <color name="my_dark_primary">#1A237E</color>
+    <color name="my_light_primary">#3F51B5</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="AAAA">Activity:</string>
+    <string name="Activit">Add activity</string>
+    <string name="CalenTit">Calendary</string>
+    <string name="ChangeLang">Change language</string>
+    <string name="ChangeTheme">Change theme</string>
+    <string name="ClDateTime">Select date and time</string>
+    <string name="Close">Close</string>
+    <string name="Conn">Connect</string>
+    <string name="DAttackType">Add seizure type</string>
+    <string name="DataError">Error while receiving data</string>
+    <string name="DataErrorDel">Seizure deletion error</string>
+    <string name="DataErrorUpd">Data update error</string>
+    <string name="DataPDF">Date</string>
+    <string name="DataUpd">Data updated</string>
+    <string name="Delete">Delete</string>
+    <string name="DeleteLastPrist">Deleting the account</string>
+    <string name="DescribeProblem">Describe your problem</string>
+    <string name="DobPrim">Add a note</string>
+    <string name="Duration">Select duration</string>
+    <string name="DurationPDF">Duration</string>
+    <string name="EmailEdit">Change E-mail address</string>
+    <string name="EmailIsNotPod">Email not confirmed yet</string>
+    <string name="EmailMessage">A confirmation has been sent to your email</string>
+    <string name="EmailPole">Email input field</string>
+    <string name="EmailRed">Email successfully changed</string>
+    <string name="EmailRegistred">A user with this email already exists</string>
+    <string name="EmailSent"> Email sent</string>
+    <string name="EmailSucsess">I confirmed my E-mail</string>
+    <string name="EmailVvod">Enter email</string>
+    <string name="Exit">Log out</string>
+    <string name="NewAccError">Error creating account</string>
+    <string name="NewEmail">Enter new email</string>
+    <string name="NewPristup">New seizure</string>
+    <string name="NotSaid">Not indicated</string>
+    <string name="NotePDF">Note</string>
+    <string name="Noteeeeee">Note:</string>
+    <string name="OR">Or</string>
+    <string name="Otmena">Cancel</string>
+    <string name="PDFgenerated">File generated successfully!</string>
+    <string name="PassPole">Password field</string>
+    <string name="PassVvod">Enter password</string>
+    <string name="PrichVybor">Select the possible cause of the seizure</string>
+    <string name="PripTypePdf">Seizure type</string>
+    <string name="Pripripri">Cause of the seizure:</string>
+    <string name="PristDeleted">Seizure removed</string>
+    <string name="PristDet">Details of the seizure</string>
+    <string name="PristDurError">Choose a duration of no more than an hour</string>
+    <string name="PristPri">Add a possible cause of the seizure</string>
+    <string name="PristSave">The attack was successfully saved!</string>
+    <string name="PristSaveError">Seizure saving error</string>
+    <string name="Pristups">Seizures</string>
+    <string name="RedNote">Editing a note</string>
+    <string name="Redact">Edit</string>
+    <string name="Register">Register</string>
+    <string name="Save">Save</string>
+    <string name="SaveSeizures">Save seizures</string>
+    <string name="Seizures">Seizures</string>
+    <string name="Send">Send</string>
+    <string name="SendPDF">File sent</string>
+    <string name="SingInError">Login failed</string>
+    <string name="Singin">Log in</string>
+    <string name="Smart">Smart-watch Connect</string>
+    <string name="SomeWrong">Something went wrong</string>
+    <string name="TP">Contact support</string>
+    <string name="TTTTT">Seizure type: </string>
+    <string name="TwCharErr">Please describe the problem in at least 20 characters.</string>
+    <string name="UserDeliteErr">Error when deleting user</string>
+    <string name="UserError">User is already registered</string>
+    <string name="UserExit">Exit completed</string>
+    <string name="UserUnAuth">User is not authorized</string>
+    <string name="UserUnDetectet">User is not found</string>
+    <string name="VActivit">Selected activity: </string>
+    <string name="VActivitPDF">Activity</string>
+    <string name="VAttackType">Seizure type: </string>
+    <string name="VDate">date:</string>
+    <string name="VDuration">Duration:</string>
+    <string name="VPoleFOrRes">Select a field to edit</string>
+    <string name="VPristPri">Selected cause of seizure: </string>
+    <string name="VPristPriPDF">Cause of seizure</string>
+    <string name="VybActivit">Select an activity</string>
+    <string name="VybAttackType">Select seizure type</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Epileptic helper</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="dddddd">Date and time:</string>
+    <string name="delete_confirmation_message">Do you really want to delete the account?</string>
+    <string name="delete_confirmation_title">Deletion confirmation</string>
+    <string name="delete_failed">Failed to delete account</string>
+    <string name="delete_success">The account was successfully removed</string>
+    <string name="durdur">Duration:</string>
+    <string name="failed_to_load_seizures">Failed to load seizures. Please try again later.</string>
+    <string name="label_main">Epileptic helper</string>
+    <string name="menu_calendary">Calendar</string>
+    <string name="menu_onas">About Us</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_vhod">Log in</string>
+    <string name="messages_header">Messages</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no">No</string>
+    <string name="no_email_client">No email client found.</string>
+    <string name="no_records">No entries to delete</string>
+    <string name="no_seizures_found">No seizures found.</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="select_seizures">Select seizures for save</string>
+    <string name="signature_title">Your signature</string>
+    <string name="support_email_body">Please describe your issue or question here.</string>
+    <string name="support_email_subject">Support Request</string>
+    <string name="sync_header">Sync</string>
+    <string name="sync_title">Sync email periodically</string>
+    <string name="title_activity_main">Epileptic helper</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="yes">Yes</string>
+    <style name="Base.Theme.EpilepticHelper" parent="Theme.Material3.DayNight.NoActionBar">
+        
+    </style>
+    <style name="FlatButton">
+        <item name="android:background">@null</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.EpilepticHelper" parent="Base.Theme.EpilepticHelper"/>
+    <style name="Theme.EpilepticHelper.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.EpilepticHelper.Light">
+        
+    </style>
+    <style name="Theme.EpilepticHelper.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.EpilepticHelper.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:textColorPrimary">#FFFFFF</item> 
+        <item name="navigationIconTint">#FFFFFF</item> 
+    </style>
+</resources>

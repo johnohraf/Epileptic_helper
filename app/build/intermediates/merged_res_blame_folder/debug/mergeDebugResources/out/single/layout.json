@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/selected_item.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/selected_item.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/my_widget.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/my_widget.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/fragment_gallery.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/activity_sett.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_sett.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/item_event.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/banner_register.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/banner_register.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/activity_main2.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/fragment_home.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/activity_authorization.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_authorization.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/nav_header_main.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/activity_prist.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_prist.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/toolbar_custom.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/toolbar_custom.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/fragment_slideshow.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/content_main.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/dialog_event_details.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/dialog_event_details.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/app_bar_main.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.epileptichelper.app-mergeDebugResources-4:/layout/activity_calendar.xml",
+        "source": "com.example.epileptichelper.app-main-7:/layout/activity_calendar.xml"
+    }
+]

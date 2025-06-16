@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Options">
+        <item>Дата и время</item>
+        <item>Продолжительность</item>
+        <item>Активность</item>
+        <item>Причина приступа</item>
+        <item>Тип приступа</item>
+        <item>Заметки</item>
+
+
+    </string-array>
+    <string-array name="activities">
+        <item>Засыпание</item>
+        <item>Сон</item>
+        <item>Пробуждение</item>
+        <item>Учёба</item>
+        <item>Работа</item>
+        <item>Физические упражнения</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="attackReasons">
+        <item>Употребление алкоголя</item>
+        <item>Приём запрещённых веществ</item>
+        <item>Жар</item>
+        <item>Мигающий свет</item>
+        <item>Заболевание</item>
+        <item>Пропущенный приём лекарств</item>
+        <item>Недостаток сна</item>
+        <item>Стресс</item>
+        <item>Другое</item>
+
+    </string-array>
+    <string-array name="attackTypes">
+        <item>Абсанс</item>
+        <item>Атонический</item>
+        <item>Атипичный абсанс</item>
+        <item>Клонический</item>
+        <item>Комплексный парциальный</item>
+        <item>Миоклонический</item>
+        <item>Кластер миоклонических припадков</item>
+        <item>Геластический</item>
+        <item>Младенческие судороги</item>
+        <item>Вторичный генерализованный</item>
+        <item>Простой парциальный</item>
+        <item>Тонический</item>
+        <item>Тоническо-клонический</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="languages_array">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="monthNames">
+        <item>Янв</item>
+        <item>Февр</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сент</item>
+        <item>Окт</item>
+        <item>Нояб</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <attr format="reference" name="headerBackground"/>
+    <color name="black">#FF000000</color>
+    <color name="dark_header_background_color">#1A237E</color>
+    <color name="holo_red_light">#DC1010</color>
+    <color name="light_header_background_color">#2A3F9E</color>
+    <color name="my_dark_primary">#1A237E</color>
+    <color name="my_light_primary">#3F51B5</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="AAAA">Активность</string>
+    <string name="Activit">Добавить активность</string>
+    <string name="CalenTit">Календарь</string>
+    <string name="ChangeLang">Сменить язык</string>
+    <string name="ChangeTheme">Смена темы</string>
+    <string name="ClDateTime">Выберите дату и время</string>
+    <string name="Close">Закрыть</string>
+    <string name="Conn">Подключить</string>
+    <string name="DAttackType">Добавить тип припадка</string>
+    <string name="DataError">Ошибка при получении данных</string>
+    <string name="DataErrorDel">Ошибка удаления приступа</string>
+    <string name="DataErrorUpd">Ошибка обновления данных</string>
+    <string name="DataPDF">Дата</string>
+    <string name="DataUpd">Данные обновлены</string>
+    <string name="Delete">Удалить</string>
+    <string name="DeleteLastPrist">Удалить аккаунт</string>
+    <string name="DescribeProblem">Опишите свою проблему</string>
+    <string name="DobPrim">Добавить примечание</string>
+    <string name="Duration">Выберите продолжительность</string>
+    <string name="DurationPDF">Продолжительность</string>
+    <string name="EmailEdit">Изменить E-mail адрес</string>
+    <string name="EmailIsNotPod">Email еще не подтвержден</string>
+    <string name="EmailMessage">На ваш e-mail отпралено подтверждение</string>
+    <string name="EmailPole">Поле ввода почты</string>
+    <string name="EmailRed">E-mail успешно изменён</string>
+    <string name="EmailRegistred">Пользователь с таким email уже существует</string>
+    <string name="EmailSent">Сообщение отправлено</string>
+    <string name="EmailSucsess">Я подтвердил почту</string>
+    <string name="EmailVvod">Введите e-mail</string>
+    <string name="Exit">Выйти</string>
+    <string name="NewAccError">Ошибка при создании учетной записи</string>
+    <string name="NewEmail">Введите новую почту</string>
+    <string name="NewPristup">Новый приступ</string>
+    <string name="NotSaid">Не указано</string>
+    <string name="NotePDF">Заметки</string>
+    <string name="Noteeeeee">Примечание:</string>
+    <string name="OR">Или</string>
+    <string name="Otmena">Отмена</string>
+    <string name="PDFgenerated">Файл успешно сохранён!</string>
+    <string name="PassPole">Поле ввода пароля</string>
+    <string name="PassVvod">Введите пароль</string>
+    <string name="PrichVybor">Выберите возможную причину припадка</string>
+    <string name="PripTypePdf">Тип припадка</string>
+    <string name="Pripripri">Причину припадка</string>
+    <string name="PristDeleted">Приступ удален</string>
+    <string name="PristDet">Детали приступа</string>
+    <string name="PristDurError">Выберите длительность не более часа</string>
+    <string name="PristPri">Добавить возможную причину припадка</string>
+    <string name="PristSave">Приступ успешно сохранен!</string>
+    <string name="PristSaveError">Ошибка сохранения приступа</string>
+    <string name="Pristups">Приступы</string>
+    <string name="RedNote">Редактирование заметки</string>
+    <string name="Redact">Редактировать</string>
+    <string name="Register">Зарегистрироваться</string>
+    <string name="Save">Сохранить</string>
+    <string name="SaveSeizures">Сохранить приступы</string>
+    <string name="Seizures">Приступы</string>
+    <string name="Send">Отправить</string>
+    <string name="SendPDF">Файл отправлен</string>
+    <string name="SingInError">Ошибка входа</string>
+    <string name="Singin">Войти</string>
+    <string name="Smart">Подключение Смарт-часов</string>
+    <string name="SomeWrong">Что-то пошло не так</string>
+    <string name="TP">Обращение в поддержку</string>
+    <string name="TTTTT">Тип приступа: </string>
+    <string name="TwCharErr">Пожалуйста, опишите проблему не менее чем в 20 символах.</string>
+    <string name="UserDeliteErr">Ошибка при удалении пользователя</string>
+    <string name="UserError">Пользователь уже зарегистрирован</string>
+    <string name="UserExit">Выход выполнен</string>
+    <string name="UserUnAuth">Пользователь не авторизован</string>
+    <string name="UserUnDetectet">Пользователь не найден</string>
+    <string name="VActivit">Выбранная активность: </string>
+    <string name="VActivitPDF">Активность</string>
+    <string name="VAttackType">Тип припадка: </string>
+    <string name="VDate">Дата:</string>
+    <string name="VDuration">Продолжительность:</string>
+    <string name="VPoleFOrRes">Выберите поле для редактирования</string>
+    <string name="VPristPri">Выбранная причина припадка: </string>
+    <string name="VPristPriPDF">Причина припадка</string>
+    <string name="VybActivit">Выберите активность</string>
+    <string name="VybAttackType">Выберите тип припадка</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Epileptic helper</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="dddddd">Дату и время:</string>
+    <string name="delete_confirmation_message">Вы действительно хотите удалить аккаунт?</string>
+    <string name="delete_confirmation_title">Подтверждение удаления</string>
+    <string name="delete_failed">Не удалось удалить аккаунт</string>
+    <string name="delete_success">Аккаунт удалён</string>
+    <string name="durdur">Продолжительность:</string>
+    <string name="failed_to_load_seizures">Ошибка загрузки приступов. Попробуйте позже.</string>
+    <string name="firebase_database_url" translatable="false">https://epileptic-helper-c7574-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">501404405751</string>
+    <string name="google_api_key" translatable="false">AIzaSyAi3lBoin9Ei7v-GRSK1DWistQeC0CQ2Cg</string>
+    <string name="google_app_id" translatable="false">1:501404405751:android:fbcec79f7fd24f6fab28f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAi3lBoin9Ei7v-GRSK1DWistQeC0CQ2Cg</string>
+    <string name="google_storage_bucket" translatable="false">epileptic-helper-c7574.appspot.com</string>
+    <string name="label_main">Epileptic helper</string>
+    <string name="menu_calendary">Календарь</string>
+    <string name="menu_onas">О нас</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_vhod">Вход</string>
+    <string name="messages_header">Messages</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no">Нет</string>
+    <string name="no_email_client">Почтовый клиент не найден.</string>
+    <string name="no_records">Нет записей для удаления</string>
+    <string name="no_seizures_found">Не найдено приступов</string>
+    <string name="project_id" translatable="false">epileptic-helper-c7574</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="select_seizures">Выберите приступы для сохранения</string>
+    <string name="signature_title">Your signature</string>
+    <string name="support_email_body">Пожалуйста, опишите здесь вашу проблему или вопрос.</string>
+    <string name="support_email_subject">Запрос поддержки</string>
+    <string name="sync_header">Sync</string>
+    <string name="sync_title">Sync email periodically</string>
+    <string name="title_activity_main">Epileptic helper</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="yes">Да</string>
+    <style name="Base.Theme.EpilepticHelper" parent="Theme.Material3.DayNight.NoActionBar">
+        
+    </style>
+    <style name="FlatButton">
+        <item name="android:background">@null</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.EpilepticHelper" parent="Base.Theme.EpilepticHelper"/>
+    <style name="Theme.EpilepticHelper.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.EpilepticHelper.Light">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        
+    </style>
+    <style name="Theme.EpilepticHelper.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.EpilepticHelper.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:textColorPrimary">#FFFFFF</item> 
+        <item name="navigationIconTint">#FFFFFF</item> 
+    </style>
+</resources>
